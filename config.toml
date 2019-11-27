@@ -5,6 +5,17 @@ disableKinds = ["taxononmy", "taxonomyTerm"]
 [params]
 description = "A Hugo theme for ambitious open source projects"
 texture = "Bright squares"
+github_repo = "tract-docs/tract-docs.dev"
+
+[[params.buttons.main]]
+text = "Getting started"
+icon = "fas fa-rocket"
+url = "/docs/getting-started"
+
+[[params.buttons.main]]
+text = "Docs"
+icon = "fas fa-book"
+url = "/docs"
 
 [[params.fonts]]
 name = "Open Sans"
