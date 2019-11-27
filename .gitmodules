@@ -1,0 +1,3 @@
+[submodule "themes/tract"]
+	path = themes/tract
+	url = https://github.com/tract-docs/tract
