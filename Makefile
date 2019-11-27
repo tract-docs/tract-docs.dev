@@ -1,10 +1,7 @@
-assets:
-	(cd themes/tract && yarn)
-
 submodule-update:
 	git submodule foreach git pull origin master
 
-setup: submodule-update assets
+setup: submodule-update
 
 serve: setup
 	hugo server \
