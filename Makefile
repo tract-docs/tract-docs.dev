@@ -18,3 +18,6 @@ preview-build: setup
 production-build: setup
 	hugo \
 	--minify
+
+open:
+	open https://tract-docs.dev
