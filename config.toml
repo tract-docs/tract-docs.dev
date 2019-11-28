@@ -10,16 +10,16 @@ github_repo = "tract-docs/tract-docs.dev"
 
 [[params.buttons.main]]
 text = "Getting started"
-icon = "fas fa-rocket"
+icon = "rocket"
 url = "/docs/getting-started"
 
 [[params.buttons.main]]
 text = "Docs"
-icon = "fas fa-book"
+icon = "information-circle"
 url = "/docs"
 
 [[params.fonts]]
-name = "Open Sans"
+name = "Alata"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
