@@ -6,17 +6,20 @@ setup: submodule-update
 serve: setup
 	hugo server \
 	--buildDrafts \
-	--buildFuture
+	--buildFuture \
+	--enableGitInfo
 
 preview-build: setup
 	hugo \
 	--baseURL $(DEPLOY_PRIME_URL) \
 	--buildDrafts \
 	--buildFuture \
+	--enableGitInfo \
 	--minify
 
 production-build: setup
 	hugo \
+	--enableGitInfo \
 	--minify
 
 open:
