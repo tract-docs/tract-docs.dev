@@ -7,6 +7,7 @@ serve: setup
 	hugo server \
 	--buildDrafts \
 	--buildFuture \
+	--disableFastRender \
 	--enableGitInfo
 
 preview-build: setup
