@@ -41,3 +41,16 @@ Here is what is required.
 {{< warning title="Warning" >}}
 Here is what is required.
 {{< /warning >}}
+
+{{< info >}}
+This one has no title. Irure veniam cillum labore sit irure ex. Irure ullamco duis ullamco reprehenderit est. Incididunt sunt minim in reprehenderit. Enim sit minim dolor dolor ad sunt ex nulla excepteur non esse minim anim.
+
+In laboris enim anim qui et et anim culpa ipsum mollit veniam et deserunt esse. Consequat commodo esse tempor dolore do commodo eiusmod cupidatat pariatur nostrud Lorem aliqua veniam. Eu esse voluptate nostrud incididunt ea et commodo adipisicing culpa adipisicing. Occaecat eiusmod culpa qui Lorem culpa et voluptate et. Laborum laboris id ipsum elit excepteur adipisicing reprehenderit fugiat voluptate pariatur.
+
+```python
+class Person(object):
+    pass
+```
+
+Something.
+{{< /info >}}
