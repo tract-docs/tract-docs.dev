@@ -9,7 +9,7 @@ description = "A Hugo theme for ambitious open source projects"
 github_repo = "tract-docs/tract-docs.dev"
 
 [markup.highlight]
-style = "fruity"
+style = "paraiso-dark"
 
 [[params.buttons.main]]
 text = "Getting started"
@@ -27,6 +27,6 @@ sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
 [[params.fonts]]
-name = "Roboto Mono"
+name = "Inconsolata"
 sizes = [300, 400, 600, 700]
 type = "monospace"
