@@ -2,6 +2,7 @@
 title: Getting started
 description: Run this thingy in your local environment
 tags: [beginner, docs, something-else]
+weight: 1
 ---
 
 {{< requirement title="Before you start" >}}
