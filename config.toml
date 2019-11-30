@@ -5,8 +5,6 @@ disableKinds = ["taxononmy", "taxonomyTerm"]
 
 [params]
 description = "A Hugo theme for ambitious open source projects"
-#texture = "Bright squares"
-github_repo = "tract-docs/tract-docs.dev"
 
 [markup.highlight]
 style = "paraiso-dark"
@@ -30,3 +28,12 @@ type = "sans_serif"
 name = "Inconsolata"
 sizes = [300, 400, 600, 700]
 type = "monospace"
+
+[params.social.twitter]
+handle = "lucperkins"
+
+[params.social.github]
+repo = "tract-docs/tract"
+
+[params.social.slack]
+channel = "tract-docs"
