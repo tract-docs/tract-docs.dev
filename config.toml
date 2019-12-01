@@ -13,11 +13,20 @@ style = "paraiso-dark"
 text = "Getting started"
 icon = "rocket"
 url = "/docs/getting-started"
+color = "primary"
+inverted = true
+outlined = true
 
 [[params.buttons.main]]
 text = "Docs"
 icon = "information-circle"
 url = "/docs"
+color = "secondary"
+
+[[params.buttons.main]]
+text = "Repo"
+icon = "logo-github"
+url = "https://github.com/tract-docs/tract"
 
 [[params.fonts]]
 name = "Alata"
@@ -38,6 +47,27 @@ repo = "tract-docs/tract"
 [params.social.slack]
 channel = "tract-docs"
 
+[[menu.main]]
+name = "Documentation"
+url = "/docs"
+weight = 1
+
+[[menu.main]]
+name = "Community"
+url = "/community"
+weight = 2
+
+[[menu.main]]
+name = "Project"
+url = "/project"
+weight = 3
+
 [[menu.docs]]
 name = "Foo"
 url = "/foo"
+identifier = "foo"
+
+[[menu.docs]]
+name = "Bar"
+url = "/bar"
+parent = "foo"
