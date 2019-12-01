@@ -37,3 +37,7 @@ repo = "tract-docs/tract"
 
 [params.social.slack]
 channel = "tract-docs"
+
+[[menu.docs]]
+name = "Foo"
+url = "/foo"
