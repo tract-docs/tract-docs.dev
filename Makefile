@@ -26,5 +26,5 @@ production-build: setup
 open:
 	open https://tract-docs.dev
 
-update:
+update: submodule-update
 	git add -A && git commit -m "Update submodule" && git push
