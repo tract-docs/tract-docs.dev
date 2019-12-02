@@ -54,6 +54,12 @@ channel = "tract-docs"
 [params.social.youtube]
 channel = "UCvqbFHwN-nwalWPjPUKpvTA"
 
+[params.social.linkedin]
+id = "luc-perkins-a087b322"
+
+[params.social.facebook]
+username = "lucperkins"
+
 [[menu.main]]
 name = "Documentation"
 url = "/docs"
