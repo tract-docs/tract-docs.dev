@@ -1,5 +1,6 @@
 ---
-title: Documentation
+title: Welcome to Tract
+description: Something
 ---
 
 Laborum nostrud consectetur sint minim proident aliquip exercitation ullamco quis dolor sint. Non elit culpa ut dolor nisi. Est esse sunt nostrud adipisicing commodo do do amet do labore.

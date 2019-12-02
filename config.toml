@@ -4,7 +4,11 @@ baseURL = "https://tract-docs.dev"
 disableKinds = ["taxononmy", "taxonomyTerm"]
 
 [params]
-description = "A Hugo theme for ambitious open source projects"
+description = "A Hugo theme for ambitious documentation projects"
+
+[params.colors]
+primary = "#f50057"
+secondary = "#ffab00"
 
 [markup.highlight]
 style = "paraiso-dark"
@@ -46,6 +50,9 @@ repo = "tract-docs/tract"
 
 [params.social.slack]
 channel = "tract-docs"
+
+[params.social.youtube]
+channel = "UCvqbFHwN-nwalWPjPUKpvTA"
 
 [[menu.main]]
 name = "Documentation"
