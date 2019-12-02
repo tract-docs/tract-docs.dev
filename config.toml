@@ -1,7 +1,9 @@
 title = "Tract"
 theme = "tract"
 baseURL = "https://tract-docs.dev"
-disableKinds = ["taxononmy", "taxonomyTerm"]
+
+[taxonomies]
+tag = "tags"
 
 [params]
 description = "A Hugo theme for ambitious documentation projects"
