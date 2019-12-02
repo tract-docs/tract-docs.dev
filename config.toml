@@ -84,5 +84,5 @@ identifier = "foo"
 
 [[menu.docs]]
 name = "Bar"
-url = "/bar"
+url = "https://google.com"
 parent = "foo"
