@@ -16,6 +16,9 @@ secondary = "#0d47a1"
 [markup.highlight]
 style = "paraiso-dark"
 
+[outputs]
+home = [ "HTML", "JSON" ]
+
 [[params.buttons.main]]
 text = "Getting started"
 icon = "rocket"
@@ -92,13 +95,3 @@ identifier = "foo"
 name = "Bar"
 url = "https://google.com"
 parent = "foo"
-
-[languages.en]
-languageName = "English"
-contentDir = "content/en"
-weight = 1
-
-[languages.de]
-languageName = "Deutsch"
-contentDir = "content/de"
-weight = 2
