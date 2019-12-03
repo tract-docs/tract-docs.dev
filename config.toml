@@ -77,6 +77,11 @@ name = "Project"
 url = "/project"
 weight = 3
 
+[[menu.main]]
+name = "External"
+url = "https://example.org"
+weight = 4
+
 [[menu.docs]]
 name = "Foo"
 url = "/foo"
