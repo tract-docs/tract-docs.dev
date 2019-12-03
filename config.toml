@@ -9,8 +9,8 @@ tag = "tags"
 description = "A Hugo theme for ambitious documentation projects"
 
 [params.colors]
-primary = "#f50057"
-secondary = "#ffab00"
+primary = "#1976d2"
+secondary = "#0d47a1"
 
 [markup.highlight]
 style = "paraiso-dark"
