@@ -1,6 +1,7 @@
 title = "Tract"
 theme = "tract"
 baseURL = "https://tract-docs.dev"
+defaultContentLanguage = "en"
 
 [taxonomies]
 tag = "tags"
@@ -91,3 +92,13 @@ identifier = "foo"
 name = "Bar"
 url = "https://google.com"
 parent = "foo"
+
+[languages.en]
+languageName = "English"
+contentDir = "content/en"
+weight = 1
+
+[languages.de]
+languageName = "Deutsch"
+contentDir = "content/de"
+weight = 2
