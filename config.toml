@@ -6,3 +6,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params.colors]
 primary = "purple"
+
+[[params.navbar.menu]]
+icon = "file_download"
+label = "Download"
+
+[[params.navbar.menu]]
+icon = "print"
+label = "Print this page"
+
+[[params.navbar.menu]]
+icon = "bookmark"
+label = "Bookmark this page"
+
