@@ -4,3 +4,5 @@ baseURL = "https://tract-docs.dev"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[params.colors]
+primary = "blue"
