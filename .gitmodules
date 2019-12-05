@@ -1,3 +1,6 @@
 [submodule "themes/tract"]
 	path = themes/tract
 	url = https://github.com/tract-docs/tract
+[submodule "themes/tract-material"]
+	path = themes/tract-material
+	url = https://github.com/tract-docs/tract-material

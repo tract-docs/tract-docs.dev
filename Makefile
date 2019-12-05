@@ -3,7 +3,7 @@ submodule-update:
 
 setup: submodule-update
 
-serve: setup
+serve:
 	hugo server \
 	--buildDrafts \
 	--buildFuture \
