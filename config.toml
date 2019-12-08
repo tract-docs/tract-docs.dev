@@ -1,14 +1,14 @@
-title = "Tract"
 theme = "tract"
 baseURL = "https://tract-docs.dev"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [taxonomies]
 tag = "tags"
 
 [params]
-description = "A Hugo theme for ambitious documentation projects"
-#icon_set = "ionicons"
+icon_set = "ionicons"
 
 [params.colors]
 primary = "#1976d2"
@@ -19,25 +19,6 @@ style = "paraiso-dark"
 
 [outputs]
 home = [ "HTML", "JSON" ]
-
-[[params.buttons.main]]
-text = "Getting started"
-icon = "rocket"
-url = "/docs/getting-started"
-color = "primary"
-inverted = true
-outlined = true
-
-[[params.buttons.main]]
-text = "Docs"
-icon = "information-circle"
-url = "/docs"
-color = "secondary"
-
-[[params.buttons.main]]
-text = "Repo"
-icon = "logo-github"
-url = "https://github.com/tract-docs/tract"
 
 [[params.fonts]]
 name = "Alata"
@@ -70,29 +51,29 @@ username = "lucperkins"
 [[menu.main]]
 name = "Community"
 url = "/community"
-weight = 1
+weight = 0
 
 [[menu.main]]
 name = "Project"
 url = "/project"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "External"
 url = "https://example.org"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Docs"
 identifier = "docs"
 url = "/docs"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Getting started"
 parent = "docs"
 url = "/docs/getting-started"
-weight = 1
+weight = 0
 
 [[menu.docs]]
 name = "Foo"
@@ -103,3 +84,29 @@ identifier = "foo"
 name = "Bar"
 url = "https://google.com"
 parent = "foo"
+
+[languages.en]
+languageName = "English"
+contentDir = "content/en"
+weight = 0
+title = "Tract"
+
+[languages.en.params]
+description = "A Hugo theme for ambitious documentation projects"
+
+[languages.de]
+languageName = "Deutsch"
+contentDir = "content/de"
+weight = 1
+title = "Traktat"
+
+[languages.de.params]
+description = "Irgendwas auf Deutsch statt auf Englisch"
+
+[languages.de.params.social.twitter]
+handle = "germany"
+
+[[languages.de.menus.main]]
+name = "Projekt"
+url = "/projekt"
+weight = 0

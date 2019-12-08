@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: Docs
 description: Everything you need to know about the Tract theme
 ---
 
