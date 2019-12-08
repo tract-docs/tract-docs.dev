@@ -8,6 +8,7 @@ tag = "tags"
 
 [params]
 description = "A Hugo theme for ambitious documentation projects"
+#icon_set = "ionicons"
 
 [params.colors]
 primary = "#1976d2"
@@ -67,24 +68,31 @@ id = "luc-perkins-a087b322"
 username = "lucperkins"
 
 [[menu.main]]
-name = "Documentation"
-url = "/docs"
-weight = 1
-
-[[menu.main]]
 name = "Community"
 url = "/community"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Project"
 url = "/project"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "External"
 url = "https://example.org"
+weight = 3
+
+[[menu.main]]
+name = "Docs"
+identifier = "docs"
+url = "/docs"
 weight = 4
+
+[[menu.main]]
+name = "Getting started"
+parent = "docs"
+url = "/docs/getting-started"
+weight = 1
 
 [[menu.docs]]
 name = "Foo"

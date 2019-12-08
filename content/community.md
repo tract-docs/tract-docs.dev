@@ -1,6 +1,6 @@
 ---
 title: Community
-description: Everything you need to know about Tract
+description: Get involved with Tract!
 ---
 
 Here is a sample community page.
