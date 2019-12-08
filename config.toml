@@ -34,7 +34,7 @@ type = "monospace"
 handle = "lucperkins"
 
 [params.social.github]
-repo = "tract-docs/tract"
+repo = "tract-docs/tract-docs.dev"
 
 [params.social.slack]
 channel = "tract-docs"
@@ -110,3 +110,8 @@ handle = "germany"
 name = "Projekt"
 url = "/projekt"
 weight = 0
+
+[[languages.de.menus.main]]
+name = "Doku"
+url = "/dokumentation"
+weight = 1
