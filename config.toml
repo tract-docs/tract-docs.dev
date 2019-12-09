@@ -10,6 +10,9 @@ tag = "tags"
 [params]
 icon_set = "ionicons"
 
+[params.home.buttons]
+inverted = true
+
 [params.colors]
 primary = "#1976d2"
 secondary = "#0d47a1"
@@ -104,7 +107,7 @@ title = "Traktat"
 description = "Irgendwas auf Deutsch statt auf Englisch"
 
 [languages.de.params.social.twitter]
-handle = "germany"
+handle = "DFB_Team_EN"
 
 [[languages.de.menus.main]]
 name = "Projekt"
@@ -120,4 +123,17 @@ weight = 1
 languageName = "Français"
 contentDir = "content/fr"
 weight = 3
-title = "Tracte"
+title = "Tract"
+
+[languages.fr.params.social.twitter]
+handle = "france"
+
+[[languages.fr.menus.main]]
+name = "Documentation"
+url = "/documentation"
+weight = 1
+
+[[languages.fr.menus.main]]
+name = "Projet"
+url = "/projet"
+weight = 2

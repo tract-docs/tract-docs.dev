@@ -6,7 +6,6 @@ buttons:
   url: /docs/getting-started
   icon: rocket
   color: primary
-  size: medium
   inverted: true
 - text: Docs
   url: /docs
@@ -18,3 +17,4 @@ Welcome to Tract!
 
 ## Why Tract?
 
+I built Tract because reasons.
