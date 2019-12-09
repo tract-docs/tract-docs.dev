@@ -6,7 +6,6 @@ buttons:
   url: /dokumentation/für-anfänger
   icon: rocket
   color: primary
-  size: medium
   inverted: true
 - text: Doku
   url: /dokumentation

@@ -21,10 +21,10 @@ secondary = "#0d47a1"
 style = "paraiso-dark"
 
 [outputs]
-home = [ "HTML", "JSON" ]
+home = ["HTML", "JSON"]
 
 [[params.fonts]]
-name = "Alata"
+name = "Lato"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
