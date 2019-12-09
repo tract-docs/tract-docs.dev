@@ -88,7 +88,7 @@ parent = "foo"
 [languages.en]
 languageName = "English"
 contentDir = "content/en"
-weight = 0
+weight = 1
 title = "Tract"
 
 [languages.en.params]
@@ -97,7 +97,7 @@ description = "A Hugo theme for ambitious documentation projects"
 [languages.de]
 languageName = "Deutsch"
 contentDir = "content/de"
-weight = 1
+weight = 2
 title = "Traktat"
 
 [languages.de.params]
@@ -115,3 +115,9 @@ weight = 0
 name = "Doku"
 url = "/dokumentation"
 weight = 1
+
+[languages.fr]
+languageName = "Français"
+contentDir = "content/fr"
+weight = 3
+title = "Tracte"
