@@ -5,7 +5,6 @@ tags: [beginner, docs, something-else]
 weight: 1
 ---
 
-
 {{< requirement title="Before you start" >}}
 In order to use the Tract theme, you need to install Hugo version 0.60.0 or above. You can find installation instructions in the [Hugo documentation](https://gohugo.io/getting-started/installing/).
 {{< /requirement >}}

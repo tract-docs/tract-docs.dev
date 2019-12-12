@@ -14,8 +14,8 @@ icon_set = "ionicons"
 inverted = true
 
 [params.colors]
-primary = "#1976d2"
-secondary = "#0d47a1"
+primary = "#0d47a1"
+secondary = "#1e88e5"
 
 [markup.highlight]
 style = "paraiso-dark"
@@ -24,7 +24,7 @@ style = "paraiso-dark"
 home = ["HTML", "JSON"]
 
 [[params.fonts]]
-name = "Lato"
+name = "Alata"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
@@ -124,6 +124,9 @@ languageName = "Français"
 contentDir = "content/fr"
 weight = 3
 title = "Tract"
+
+[languages.fr.params]
+description = "Quelque chose en français ici"
 
 [languages.fr.params.social.twitter]
 handle = "france"
