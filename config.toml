@@ -24,7 +24,7 @@ style = "paraiso-dark"
 home = ["HTML", "JSON"]
 
 [[params.fonts]]
-name = "Alata"
+name = "Open Sans"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
