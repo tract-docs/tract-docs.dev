@@ -9,7 +9,7 @@ buttons:
   inverted: true
 - text: Docs
   url: /docs
-  color: secondary
+  color: black
   icon: book
 ---
 

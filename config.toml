@@ -10,9 +10,6 @@ tag = "tags"
 [params]
 icon_set = "ionicons"
 
-[params.home.buttons]
-inverted = true
-
 [params.colors]
 primary = "#880e4f"
 secondary = "#1e88e5"
