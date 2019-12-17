@@ -49,11 +49,6 @@ id = "luc-perkins-a087b322"
 username = "lucperkins"
 
 [[menu.main]]
-name = "Community"
-url = "/community"
-weight = 0
-
-[[menu.main]]
 name = "Project"
 url = "/project"
 weight = 1
