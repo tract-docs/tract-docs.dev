@@ -5,7 +5,7 @@ tags: [beginner, docs, something-else]
 weight: 1
 ---
 
-## Section 1
+## Here is an extra long section header
 
 To get started with the Tract theme for Hugo, create a new Hugo site:
 
