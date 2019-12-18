@@ -9,6 +9,7 @@ tag = "tags"
 
 [params]
 icon_set = "ionicons"
+version = "0.1.0-alpha"
 
 [params.colors]
 primary = "#880e4f"
@@ -21,7 +22,7 @@ style = "paraiso-dark"
 home = ["HTML", "JSON"]
 
 [[params.fonts]]
-name = "Alata"
+name = "Oxygen"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
@@ -54,15 +55,10 @@ url = "/project"
 weight = 1
 
 [[menu.main]]
-name = "External"
-url = "https://example.org"
-weight = 2
-
-[[menu.main]]
 name = "Docs"
 identifier = "docs"
 url = "/docs"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Getting started"
