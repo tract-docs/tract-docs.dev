@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: Internationalization and more
+description: Built-in search, internationalization, theming support, and more
 buttons:
 - text: Get started
   url: /docs/getting-started
