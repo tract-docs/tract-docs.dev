@@ -22,7 +22,7 @@ style = "paraiso-dark"
 home = ["HTML", "JSON"]
 
 [[params.fonts]]
-name = "Oxygen"
+name = "Alata"
 sizes = [300, 400, 600, 700]
 type = "sans_serif"
 
@@ -50,21 +50,16 @@ id = "luc-perkins-a087b322"
 username = "lucperkins"
 
 [[menu.main]]
-name = "Project"
-url = "/project"
-weight = 1
-
-[[menu.main]]
 name = "Docs"
 identifier = "docs"
 url = "/docs"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Getting started"
 parent = "docs"
 url = "/docs/getting-started"
-weight = 0
+weight = 1
 
 [[menu.docs]]
 name = "Foo"
