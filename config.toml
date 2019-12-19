@@ -94,11 +94,6 @@ description = "Irgendwas auf Deutsch statt auf Englisch"
 handle = "DFB_Team_EN"
 
 [[languages.de.menus.main]]
-name = "Projekt"
-url = "/projekt"
-weight = 0
-
-[[languages.de.menus.main]]
 name = "Doku"
 url = "/dokumentation"
 weight = 1
@@ -119,8 +114,3 @@ handle = "france"
 name = "Documentation"
 url = "/documentation"
 weight = 1
-
-[[languages.fr.menus.main]]
-name = "Projet"
-url = "/projet"
-weight = 2
