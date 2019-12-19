@@ -26,9 +26,9 @@ sizes = [300, 500, 600, 700]
 type = "monospace"
 ```
 
-{{< success title="Available fonts" >}}
+{{< info title="Available fonts" >}}
 You can change the sans-serif and monospace fonts to any that are currently available through [Google Fonts](https://fonts.google.com).
-{{< /success >}}
+{{< /info >}}
 
 ## Syntax highlighting theme {#highlighting}
 
@@ -39,6 +39,6 @@ The syntax highlighting theme is set under the `markup.highlight` block. Here is
 style = "fruity"
 ```
 
-{{< success title="Available themes" >}}
+{{< info title="Available themes" >}}
 You can see a listing of all available syntax highlighting themes, plus examples, in the [Chroma Style Gallery](https://xyproto.github.io/splash/docs/all.html).
-{{< /success >}}
+{{< /info >}}
