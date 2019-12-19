@@ -1,6 +1,6 @@
 ---
 title: Documentation
-display: dashboard
+display: article
 search: true
 ---
 

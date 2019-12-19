@@ -1,7 +1,7 @@
 ---
 title: The Tract docs
 description: Everything you need to know about the Tract theme
-display: dashboard
+display: article
 search: true
 ---
 

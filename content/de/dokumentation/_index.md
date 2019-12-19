@@ -1,7 +1,7 @@
 ---
 title: Traktat Dokumentation
 description: Hier steht die deutsche Version der Traktat-Dokumentation
-display: dashboard
+display: article
 search: true
 ---
 

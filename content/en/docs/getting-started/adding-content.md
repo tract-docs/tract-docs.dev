@@ -16,4 +16,24 @@ Then you can add a docs folder. You can name that folder anything you like, for 
 mkdir content/docs
 ```
 
-Now, create a docs landing page
+## Landing page
+
+Now, create a docs landing page at `content/docs/_index.md` and give it this metadata at the top:
+
+```yaml
+---
+title: My docs
+description: Everything you need to know about my project
+---
+```
+
+{{< success title="TOML and JSON also supported" >}}
+Don't like YAML? That's okay! Hugo also supports providing document metadata in JSON or TOML. Love that flexibility 💖
+{{< /success >}}
+
+Now give it a little bit of content below the metadata:
+
+```markdown
+Welcome to the docs page!
+```
+
