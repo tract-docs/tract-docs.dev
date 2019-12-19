@@ -17,7 +17,7 @@ primary = "#880e4f"
 secondary = "#1e88e5"
 
 [markup.highlight]
-style = "fruity"
+style = "dracula"
 
 [outputs]
 home = ["HTML", "JSON"]
@@ -62,15 +62,11 @@ parent = "docs"
 url = "/docs/getting-started"
 weight = 1
 
-[[menu.docs]]
-name = "Foo"
-url = "/foo"
-identifier = "foo"
-
-[[menu.docs]]
-name = "Bar"
-url = "https://google.com"
-parent = "foo"
+[[menu.main]]
+name = "Internationalization"
+parent = "docs"
+url = "/docs/i18n"
+weight = 2
 
 [languages.en]
 languageName = "English"
