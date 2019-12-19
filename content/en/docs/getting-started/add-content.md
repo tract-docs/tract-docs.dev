@@ -1,5 +1,5 @@
 ---
-title: Adding content
+title: Add content
 description: Let's turn up the heat in here 🔥
 weight: 1
 ---
@@ -37,3 +37,4 @@ Now give it a little bit of content below the metadata:
 Welcome to the docs page!
 ```
 
+Now navigate to that page at [http://localhost:1313/docs](http://localhost:1313/docs).

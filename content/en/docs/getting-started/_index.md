@@ -39,4 +39,4 @@ hugo server
 
 Now navigate to [http://localhost:1313](http://localhost:1313) in your browser to see the new site.
 
-Now that you've completed the initial setup, you can move on to [adding content](adding-content).
+Now that you've completed the initial setup, you can move on to [adding content](add-content).
