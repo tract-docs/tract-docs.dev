@@ -2,7 +2,7 @@
 title: Getting started
 description: From zero to a brand new docs site
 weight: 1
-draft: true
+new: true
 ---
 
 {{< requirement >}}
