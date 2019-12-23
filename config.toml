@@ -1,12 +1,12 @@
 theme = "tract"
 baseURL = "https://tract-docs.dev"
-disableKinds = ["taxonomy", "taxonomyTerm"]
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 copyright = "Luc Perkins"
 
 [taxonomies]
 tag = "tags"
+category = "categories"
 
 [params]
 icon_set = "ionicons"
