@@ -2,7 +2,6 @@
 title: Adjust the aesthetic
 description: Switch up the primary color, change the font. Make it yours!
 weight: 2
-tags: [aesthetics]
 ---
 
 The `config.toml` file at the root of your project provides a few knobs for changing up the look and feel of the site, including the [colors](#colors), the [font](#font), and the [syntax highlighting theme](#highlighting).

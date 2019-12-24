@@ -1,6 +1,7 @@
 ---
 title: Internationalization
 description: Take your project to the global masses 🌍
+tags: [i18n]
 ---
 
 Tract was built from the ground up with support for internationalization (aka **i18n**) (as many languages as you'd like).
