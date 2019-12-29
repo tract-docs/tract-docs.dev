@@ -2,6 +2,7 @@
 title: Add content
 description: Let's turn up the heat in here 🔥
 weight: 1
+tags: [intro]
 ---
 
 Once you've completed [setup](..), you can get started adding [Markdown](https://www.markdownguide.org/) content by creating a `content` directory:
