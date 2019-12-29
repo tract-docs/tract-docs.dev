@@ -3,6 +3,7 @@ title: Getting started
 description: From zero to a brand new docs site
 weight: 1
 new: true
+tags: [foo]
 ---
 
 {{< requirement >}}

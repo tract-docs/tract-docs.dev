@@ -6,7 +6,6 @@ copyright = "Luc Perkins"
 
 [taxonomies]
 tag = "tags"
-category = "categories"
 
 [params]
 icon_set = "ionicons"
