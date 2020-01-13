@@ -7,6 +7,7 @@ tags: [intro]
 
 Once you've completed [setup](..), you can get started adding [Markdown](https://www.markdownguide.org/) content by creating a `content` directory:
 
+
 ```bash
 mkdir content
 ```

@@ -15,7 +15,7 @@ Tract has some known limitations at this time that it's worth being aware of:
 
 * In general, the aesthetic is getting there but still a work in progress. Later versions of the theme will have a similar aesthetic *spirit* but many components will end up looking quite different.
 * Mobile and tablet support are very limited. I intend to iterate hard on this soon but for now Tract is essentially desktop only.
-* No support for content [taxonomies](https://gohugo.io/content-management/taxonomies/) like tags or categories.
+* Limited support for content [taxonomies](https://gohugo.io/content-management/taxonomies/) like tags or categories.
 * Only one available documentation layout (the dashboard layout that you can see in action [here](/en/docs)). More options will be added later.
 {{< /warning >}}
 
