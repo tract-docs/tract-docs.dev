@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "netlify-plugin-a11y": "^0.0.6"
+  }
+}
