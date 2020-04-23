@@ -1,7 +1,10 @@
+install-assets:
+	yarn
+
 submodule-update:
 	git submodule foreach git pull origin master
 
-setup: submodule-update
+setup: install-assets submodule-update
 
 serve:
 	hugo server \
