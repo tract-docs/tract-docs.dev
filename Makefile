@@ -1,5 +1,5 @@
 install-assets:
-	yarn
+	(cd themes/tract && yarn)
 
 submodule-update:
 	git submodule foreach git pull origin master
